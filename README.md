@@ -3,8 +3,8 @@ Final Project
 
 **Live**: [Link](https://pirate-adventure.surge.sh/)
 
-Daisy Johnson
 Jonathon Lee
+Daisy Johnson
 Tyler King
 Josh Williams  
 
