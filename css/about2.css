@@ -1,0 +1,86 @@
+/* this css sheet is about html */
+
+
+
+
+
+ #sec1{
+
+width: 960px;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 300px;
+    font-family: 'Italianno', cursive;
+    font-size: 2em;
+    color: brown;
+}
+
+#sec2{
+    width: 960px;
+    display: flex;
+    justify-content: left;
+    font-family: 'Italianno', cursive;
+    font-size: 2em;
+    color: brown;
+}
+.div1{
+
+    margin-left: 350px;
+    margin-right: 500px;
+}
+
+ .div2{
+    margin-bottom: 100px;
+  }
+
+  .imgclass {
+    object-fit: cover;
+    width: 350px;
+    height: 600px;
+    
+}
+
+  
+ .div3{
+
+    margin-left: 350px;
+    margin-right: 500px;
+    margin-top: -300px;
+}
+
+
+
+ .div4{
+   
+    margin-top: -300px;
+     
+ }
+
+
+ body{
+    background-color: skyblue;
+} 
+
+
+ h1{
+    width: 1879px;
+    border: solid 15px gold;
+    font-size: 6em;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50;
+    font-family: 'Italianno', cursive;
+    background-color: #03a8f4;
+}
+footer{
+    width: 1879px;
+    height: 100px;
+    background-color: #03a8f4;
+    font-family: 'Italianno', cursive;
+    font-size: 2em;
+    margin-top: 1em;
+    border: solid 15px gold;
+    text-align: center;
+    
+}
+

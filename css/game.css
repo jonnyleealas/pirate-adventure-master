@@ -1,0 +1,183 @@
+body{
+background-color:#87CEEB;
+
+}
+
+
+ul {
+    list-style: none;
+   }
+
+h1{
+    border: solid 15px gold;
+    width: 1165px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Italianno', cursive;
+    font-size: 60px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    
+}
+h2{
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Italianno', cursive;
+    font-size: 50px;
+}
+
+#username{
+    font-size:50pt;
+    margin-right:20px;
+}
+#statPic{
+    width:50px;
+    margin-right: -100px;
+    margin-top: 14px;
+}
+#narrative{
+    width: 960px;
+    margin-bottom: 2em;
+   
+}
+
+#choice{
+    width: 960px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#pic{
+   width: 250px;
+   height:200px;
+   
+}
+#narrative{
+    width: 1800px;
+    height: 200px;
+    border: solid 5px gold;
+    background-color:  #8b4513;
+    display: flex;
+  justify-content: space-evenly;
+    margin:auto;
+    color: red;
+    font-family: 'Italianno', cursive;
+    font-size: 15px;
+   
+}
+
+.booty{
+    text-align: left;
+}
+#rumBottle{
+    margin-left: 15px;
+    margin-right:25px;
+}
+
+
+#scroll{
+    margin-left:340px;
+}
+
+.choice1{
+  margin-left: 70px;
+  margin-right:50 px;
+    float: left;
+}
+
+.choice2{
+   margin-right:70 px;
+   margin-left: 50px;
+    float: right;
+}
+
+#savebar{
+    
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Italianno', cursive;
+}
+
+#savebutton{
+    width: 200px;
+    height: 30px;
+   display: flex;
+   justify-content: center;
+    text-align: center;
+    font-family: 'Italianno', cursive;
+    font-size: 25px;
+    cursor: pointer;
+    color: gold;
+    background-color: brown;
+    border: solid 5px gold;
+    padding: 3px;
+    margin-left: 850px;
+    margin-top: 2em;
+}
+
+/* this changes rum and booty */
+#changingstats1{
+    font-size: 2em;
+    color: yellow;
+   
+}
+
+/* this changes meters */
+#changingstats2{
+    font-size: 1em;
+}
+
+#coinmeter{
+    background-color: yellow;
+    border-style: crimson 1px;
+    margin-bottom: 1px;
+    width: 200px;
+    height: 20px;
+}
+
+#rummeter{
+    background-color: yellow;
+    margin-bottom: 1px;
+    width: 200px;
+    height: 25px;
+}
+
+#spiritmeter{
+    background-color: yellow;
+    width: 200px;
+    height: 25px;
+}
+
+
+#narrative-text{
+    color: brown;
+    font-family: 'Italianno', cursive;
+    font-size: 35px;
+    font-weight: bold;
+    width: 920px;
+    height: auto;
+    position: absolute;
+    top: 630px;
+    margin-left: 500px;
+    margin-top: 50px;
+
+}
+/* this changes the choice words */
+#choice{
+    width:1500px;
+    margin-left: 180px;
+  
+    
+}
+
+#choice p{
+    cursor: pointer;
+    color: gold;
+    background-color: brown;
+    border: solid 5px gold;
+    padding: 5px;
+}
+
+
+

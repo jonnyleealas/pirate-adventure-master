@@ -1,0 +1,110 @@
+body {
+background-color: #87CEEB;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Italianno', cursive;
+    font-size: 55px;
+}
+
+#headerPic{
+    margin-left: 500px;
+    border: 5px solid gold;
+}
+
+
+.headerTwo{
+    display: flex;
+    background-color: saddlebrown;
+    width:1000px;
+    justify-content: space-evenly;
+    font-family: 'Italianno', cursive;
+    color: gold;
+    font-size: 50px;
+    margin-left:450px;
+}
+.headerTwo:before, .headerTwo:after {
+    content: “”;
+    flex: 1 1;
+    border-bottom: 2px solid gold;
+    margin: auto;
+}
+
+h3{
+    font-family: 'Italianno', cursive;
+    font-size: 35px;
+    width: 100px;
+    height: 60px;
+    background-color: saddlebrown;
+    color: gold;
+}
+
+h4{
+    font-family: 'Italianno', cursive;
+    font-size: 35px;
+    width: 200px;
+    height: 60px;
+    background-color: saddlebrown;
+    color: gold;
+}
+
+#sec1{
+display: flex;
+justify-content: center;
+width: 1920px; 
+}
+
+#sec2{
+display: flex;
+justify-content: center;
+width: 1920px; 
+}
+
+#endScroll{
+    width:960px;
+    display: flex;
+    justify-content: center;
+    margin-left:450px;
+}
+
+#sec3{
+    color: brown;
+    font-family: 'Italianno', cursive;
+    font-size: 35px;
+    font-weight: bold;
+    width: 675px;
+    height: auto;
+    position: absolute;
+    top: 630px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 580px;
+    margin-top: 150px;
+
+}
+
+#flagOne{
+    float: right;
+    width: 50px;
+    margin-right:300px;
+}
+
+#flagTwo{
+    float:left;
+    width: 50px;
+    margin-top: -720px;
+    margin-left:200px;
+}
+#chest{
+    width:200px;
+
+}
+ #sec4{
+display: flex;
+justify-content: center;
+width: 1920px; 
+}
+
